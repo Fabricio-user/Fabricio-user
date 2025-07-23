@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Web`**
 
-- Iniciante e entusiasta da tecnologia 👨‍💻
-- Atualmente estudante do Curso de Sistemas de Informação 🤓
+- Iniciante e entusiasta da tecnologia 
+- Atualmente estudante do Curso de Sistemas de Informação
 - Trabalhando na área da tecnologia como Desenvolvedor Web Jr
 
 🌟 Dedicando-me intensamente aos desafios de programação.
