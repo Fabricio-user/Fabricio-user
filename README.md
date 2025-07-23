@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Web`**
 
-- Iniciante e entusiasta da tecnologia 
-- Atualmente estudante do Curso de Sistemas de Informação
+- Iniciante e entusiasta da tecnologia 👨‍💻
+- Atualmente estudante do Curso de Sistemas de Informação 🤓
 - Trabalhando na área da tecnologia como Desenvolvedor Web Jr
 
 🌟 Dedicando-me intensamente aos desafios de programação.
@@ -31,32 +31,32 @@
 />
 <img 
     align="left" 
-    alt="JAVASCRIPT" 
-    title="JAVASCRIPT"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
-    alt="TYPESCRIPT"
-    title="TYPESCRIPT" 
+    alt="TypeScript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
-    alt="ANGULAR" 
-    title="ANGULAR"
+    alt="Angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
 />
 <img
     align="left" 
-    alt="ANGULAR MATERIAL" 
-    title="ANGULAR MATERIAL"
+    alt="Angular Material" 
+    title="Angular Material"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg"
@@ -71,24 +71,24 @@
 />
 <img 
     align="left" 
-    alt="BOOTSTRAP"
-    title="BOOTSTRAP" 
+    alt="Bootstrap"
+    title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     align="left" 
-    alt="TAILWIND" 
-    title="TAILWIND"
+    alt="Tailwind" 
+    title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img
     align="left" 
-    alt="POSTGRESQL" 
-    title="POSTGRESQL"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
@@ -100,5 +100,22 @@
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>      
+/>
+<img
+    align="left" 
+    alt="PRISMA" 
+    title="PRISMA"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
+/>
+<img
+    align="left" 
+    alt="NESTJS" 
+    title="NESTJS"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+/>
+
 </div>
