@@ -1,4 +1,4 @@
-<div align="center">Fabrício Oliveira por aqui 👋.</div>
+## Fabrício Oliveira por aqui 👋.
 
 **`Desenvolvedor Web`**
 
